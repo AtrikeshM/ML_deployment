@@ -1,0 +1,3 @@
+pip install pickle-mixin
+
+C:\Users\Hp\OneDrive\Desktop\ML_Deployment\loan prediction web app.py
