@@ -10,7 +10,7 @@ import pickle
 import streamlit as st
 
 #Loading the saved module
-loaded_model = pickle.load(open('C:/Users/Hp/OneDrive/Desktop/ML_Deployment/trained_model.sav','rb'))
+loaded_model = pickle.load(open('trained_model.sav','rb'))
 
       
 def loan_predict(input_data):
